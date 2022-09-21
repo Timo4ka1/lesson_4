@@ -1,0 +1,126 @@
+.title,
+.price,
+.cumeras,
+.voiceass,
+.concl{
+   font-family: "Larsseit";
+   font-weight: 800;
+   font-size: 36px;
+   text-align: center;
+   margin-top: 50px;
+}
+
+.par__1,
+.par__2,
+.par__3, 
+.par__4,
+.par__5,
+.par__6,
+.par__7{
+   font-family: "Lato";
+   font-weight: 500;
+   font-size: 25px;
+   max-width: 1220px;
+   margin: 50px 150px;
+}
+
+.iands,
+.iands2{
+   width: 1000px;
+   height: 550px;
+   border-radius: 50px;
+   margin-left: 150px;
+   margin-top: -15px;
+   box-shadow: 8px 2px 2px gainsboro;
+}
+
+.iphone11{
+   max-width: 100%;
+   width: 700px;
+   height: 700px;
+   margin-left: 150px;
+}
+
+.iphone11__text{
+   font-family: "Larsseit";
+   margin-top: -600px;
+   margin-left: 850px;
+   font-size: 50px;
+}
+
+.harakteristiki11{
+   font-family: "Roboto";
+   max-width: 400px;
+   margin-top: 15px;
+   margin-left: 850px;
+   font-size: 15px;
+   line-height: 25px;
+}
+
+.samsunggalaxys22{
+   max-width: 100%;
+   width: 900px;
+   height: 759px;
+   margin-left: 610px;
+   margin-top: 150px;
+}
+
+.samsung__text{
+   font-family: "Larsseit";
+   margin-top: -640px;
+   margin-left: 250px;
+   font-size: 50px;
+}
+
+.harakteristikis22{
+   font-family: "Roboto";
+   max-width: 600px;
+   margin-top: 25px;
+   margin-left: 250px;
+   font-size: 15px;
+   line-height: 25px;
+}
+
+.os{
+   padding-top: 240px;
+   font-family: "Larsseit";
+   font-weight: 800;
+   font-size: 36px;
+   text-align: center;
+   margin-top: 50px;
+}
+
+.iands3{
+   width: 1000px;
+   height: 650px;
+   border-radius: 50px;
+   margin-left: 150px;
+   margin-top: -15px;
+   box-shadow: 8px 2px 2px gainsboro;
+}
+
+.voiceassjpg{
+   width: 1000px;
+   height: 550px;
+   border-radius: 50px;
+   margin-left: 150px;
+   margin-top: 35px;
+   box-shadow: 8px 2px 2px gainsboro;
+}
+
+.iands4{
+   width: 1280px;
+   height: 720px;
+   border-radius: 50px;
+   margin-left: 150px;
+   margin-top: -15px;
+   box-shadow: 8px 2px 2px gainsboro;
+}
+
+footer{
+   font-family: "Larsseit";
+   font-weight: 800px;
+   text-align: center;
+   margin-top: 20px;
+   font-size: 24px;
+}
