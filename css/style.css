@@ -10,7 +10,14 @@
    margin-top: 50px;
 }
 
-.par__1,
+.par__1{
+   font-family: "Lato";
+   font-weight: 500;
+   font-size: 25px;
+   max-width: 1220px;
+   margin: 50px 150px;
+   color: red;
+}
 .par__2,
 .par__3, 
 .par__4,
